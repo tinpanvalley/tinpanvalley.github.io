@@ -1,0 +1,8 @@
+baseURL = "https://tinpanvalley.de/"
+title = "Tin Pan Valley"
+languageCode = "de-DE"
+theme = "hugoscroll" 
+
+[Params]
+  description = "About a Band"
+  cover = "/tanpanvalley.jpg"
