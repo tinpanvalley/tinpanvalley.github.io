@@ -6,3 +6,6 @@ theme = "hugoscroll"
 [Params]
   description = "About a Band"
   cover = "/tanpanvalley.jpg"
+
+[context.production.environment]
+  HUGO_VERSION = "0.36"
