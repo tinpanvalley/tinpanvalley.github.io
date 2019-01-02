@@ -1,4 +1,4 @@
-baseURL = "https://tinpanvalley.de/"
+#aseURL = "https://hungry-bardeen-350de1.netlify.com/"
 title = "Tin Pan Valley"
 languageCode = "de-DE"
 theme = "hugoscroll" 
