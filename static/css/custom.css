@@ -7,3 +7,10 @@
 body {
     font-family: 'Roboto Slab', serif;
 }
+
+.blog-title {
+    margin: 10px 0 10px 0;
+    font-size: 6rem;
+    letter-spacing: -1px;
+    text-shadow: 0 0 6px black;
+}
