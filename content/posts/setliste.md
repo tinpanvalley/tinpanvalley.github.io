@@ -12,7 +12,6 @@ type = "post"
 - Off The Hook (Rolling Stones) 
 - You Can't Do That (The Beatles) 
 - Last Time (Rolling Stones) 
-- Carol (Chuck Berry) 
 - Whisky in the Jar (Thin Lizzy) 
 - Get Off of my Cloud (Rolling Stones) 
 - Sympathy for the Devil (Rolling Stones) 
