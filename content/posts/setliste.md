@@ -39,5 +39,4 @@ type = "post"
 - The Wall (Pink Floyd) 
 - It's All Over Now, Baby Blue (Them) 
 - Strange Brew (Cream) 
-- Personal Jesus (Johnny Cash) 
 - You Really Got Me (The Kinks)
