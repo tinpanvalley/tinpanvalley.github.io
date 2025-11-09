@@ -21,7 +21,7 @@
     <main class="content" role="main">
     <div class='fixed-nav'>
     </div>
-        {{ range .Data.Pages.ByWeight }}
+        {{ range .Site.RegularPages.ByWeight }}
                 {{ if eq .Type  "post" }}
                     {{ .Render "post"}}
                 {{ end }}
